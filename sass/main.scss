@@ -1,0 +1,35 @@
+body {
+    main {
+        width: 90%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .container {
+        width: 480px;
+        height: 767px;
+        margin: 0 auto;
+        h1 {
+            font-family: 'Coiny', cursive;
+            font-size: 52px;
+            text-align: center;
+            margin: 20px;
+        }
+        P {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 28px;
+            text-align: center;
+            font-weight: bolder;
+        }
+        .text {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 28px;
+            text-align: center;
+        }
+        .button {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 21px;
+            text-align: center;
+            margin: 5px;
+        }
+    }
+}
